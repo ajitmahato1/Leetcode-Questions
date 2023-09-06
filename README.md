@@ -1,6 +1,5 @@
 # Leetcode-Questions
 
-# LeetCode Solutions
 
 Welcome to my LeetCode Solutions repository! In this repository, you'll find my solutions to various LeetCode coding questions. LeetCode is a popular platform for practicing coding and algorithmic problems. I hope that my solutions will be helpful to you as you prepare for technical interviews or simply want to improve your algorithmic and coding skills.
 
